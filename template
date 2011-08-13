@@ -1,0 +1,11 @@
+###### Variables ######
+dbase="$HOME/";
+
+dremote="";
+dirremo="urll";
+userrem="user";
+
+dserver="";
+dirserv="url";
+userser="user";
+###### fin vars #######
