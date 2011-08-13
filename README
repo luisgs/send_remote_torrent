@@ -1,0 +1,13 @@
+#########################################
+#                                       #
+#       Envio fichero torrents a        #
+#            serdores remotos           #
+#                                       #
+#########################################
+
+Requerimiento:	- Rellenar fichero template con la direccion,
+	usuario y directorio del destino y el origen.
+		- Añadir la dirección al fichero send_torrent.sh
+	en concreto donde "source $HOME..."
+
+Ejecución:	./send_torrent
