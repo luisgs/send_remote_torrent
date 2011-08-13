@@ -21,8 +21,8 @@
 set -o nounset                              # Treat unset variables as an error
 
 ###### Variables ######
-source $HOME/Documentos/send_torrent/dir
-###### fin vars #######
+source $HOME/template
+##### fin vars #######
 
 
 if [ `scp $dbase*.torrent $userser@$dirserv:$dserver` ];
